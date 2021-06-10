@@ -16,7 +16,6 @@
 
 我想说的 Windows 自带的终端其实是 [Git Bash](https://link.juejin.im/?target=https%3A%2F%2Fgit-scm.com%2Fdownload%2Fwin)，严格意义上来说它并非自带，但它是每个程序员必装的软件，所以我且当它是自带的了。
 
-所以这篇文章都是在说怎么进化它，不用担心，进化也并不麻烦，几条甚至一条命令的事。
 
 ## 2. 我喜欢用的终端是什么样子的？
 
