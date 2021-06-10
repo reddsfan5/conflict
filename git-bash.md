@@ -6,8 +6,6 @@
 
 ## 1. 前言
 
-由于某些特殊原因，习惯用 Linux Shell 的开发者会在 Windows 上做开发。
-
 这个时候就需要一套好用的 `Linux 终端` + `Linux 环境`。
 
 至于在 Windows 上使用 Linux 环境，无非就是跑项目的时候想跟别的环境保持一致，或者安装某些 windows 上不太好用的软件，比如 Redis、Nginx 等。我认为 [Docker for Windows](https://link.juejin.im/?target=https%3A%2F%2Fdocs.docker.com%2Fdocker-for-windows%2Finstall%2F) 目前来说是最佳解决方案。当然你也可以在自带的虚拟机 Hvper-V 或者第三方虚拟机 VmWare 上安装 Linux 操作系统，再或者 Linux 子系统 WSL 你也可以玩一下，不差钱的话服务器也是一个很棒的选择。总之只要你想折腾，Windows 上不会缺 Linux 环境。
