@@ -10,11 +10,9 @@
 
 这个时候就需要一套好用的 `Linux 终端` + `Linux 环境`。
 
-**本文只讨论 Linux 终端。**
-
 至于在 Windows 上使用 Linux 环境，无非就是跑项目的时候想跟别的环境保持一致，或者安装某些 windows 上不太好用的软件，比如 Redis、Nginx 等。我认为 [Docker for Windows](https://link.juejin.im/?target=https%3A%2F%2Fdocs.docker.com%2Fdocker-for-windows%2Finstall%2F) 目前来说是最佳解决方案。当然你也可以在自带的虚拟机 Hvper-V 或者第三方虚拟机 VmWare 上安装 Linux 操作系统，再或者 Linux 子系统 WSL 你也可以玩一下，不差钱的话服务器也是一个很棒的选择。总之只要你想折腾，Windows 上不会缺 Linux 环境。
 
-不缺 Linux 环境，难道缺 Linux 终端吗？
+不缺 Linux 环境，难222道缺 Linux 终端吗？
 
 其实也不缺，Cmder、xShell、ConEmu 这些比较主流的终端我也都玩过一段时间。但是最后发现，其实没有必要那么麻烦，Windows 自带就有一个非常 nice 的终端，只是缺乏改造而已。
 
