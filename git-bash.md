@@ -1,4 +1,4 @@
-# 为 win10 打造 Linux 终端（非 wsl）
+# 为 win10  Linux 终端（非 wsl）
 
 ![img](assets/168b2442a65d1d80)
 
