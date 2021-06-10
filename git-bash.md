@@ -12,8 +12,6 @@
 
 不缺 Linux 环境，难222道缺 Linux 终端吗？
 
-其实也不缺，Cmder、xShell、ConEmu 这些比较主流的终端我也都玩过一段时间。但是最后发现，其实没有必要那么麻烦，Windows 自带就有一个非常 nice 的终端，只是缺乏改造而已。
-
 我想说的 Windows 自带的终端其实是 [Git Bash](https://link.juejin.im/?target=https%3A%2F%2Fgit-scm.com%2Fdownload%2Fwin)，严格意义上来说它并非自带，但它是每个程序员必装的软件，所以我且当它是自带的了。
 
 
